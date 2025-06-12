@@ -1,6 +1,6 @@
-# Swiftful Source Control  🤙
+# Testing Git functions  🤙
 
-Full source code for the Swiftful Source Control playlist available for FREE on YouTube @SwiftfulThinking. 
+Full source code for the git  Control playlist available for FREE on. 
 
 ## How It Works
 
