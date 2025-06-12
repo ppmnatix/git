@@ -7,6 +7,6 @@ Full source code for the git  Control playlist available for FREE on.
 <details>
 <summary> Details (Click to expand) </summary>
 <br>
-This is a test! lols
+This is a test! lols.
 
 </details>
