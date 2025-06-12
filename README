@@ -1,0 +1,24 @@
+This repository contains materials and exercises for learning Git version control.
+
+## Contents
+
+- Introduction to Git
+- Basic Git commands
+- Branching and merging
+- Collaboration workflows
+
+## Getting Started
+
+1. Clone the repository:
+    ```
+    git clone https://github.com/your-username/your-repo.git
+    ```
+2. Follow the instructions in each module.
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
