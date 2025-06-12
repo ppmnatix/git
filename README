@@ -1,24 +1,12 @@
-## This repository contains materials and exercises for learning Git version control.
+# Swiftful Source Control  🤙
 
-## Contents
+Full source code for the Swiftful Source Control playlist available for FREE on YouTube @SwiftfulThinking. 
 
-- Introduction to Git
-- Basic Git commands
-- Branching and merging
-- Collaboration workflows
+## How It Works
 
-## Getting Started
+<details>
+<summary> Details (Click to expand) </summary>
+<br>
+This is a test! lol
 
-1. Clone the repository:
-    ```
-    git clone https://github.com/your-username/your-repo.git
-    ```
-2. Follow the instructions in each module.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
+</details>
